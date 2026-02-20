@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "給我一個理由忘記",
+  "base_artist": "A-Lin",
+  "createdAt": "2026-02-20T18:14:39.590886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "給我一個理由忘記 (A-Lin 2013 Feel-Lin Live Ver.)",
+      "artist": "A-Lin",
+      "has_synced": false,
+      "path": "select/01_給我一個理由忘記_(A-Lin_2013_Feel-Lin_Live_Ver.)_A-Lin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/02_給我一個理由忘記_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02.給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/03_02.給我一個理由忘記_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/04_給我一個理由忘記_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/05_給我一個理由忘記_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/06_給我一個理由忘記_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/07_給我一個理由忘記_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin (黃麗玲)",
+      "has_synced": true,
+      "path": "select/08_給我一個理由忘記_A-Lin_(黃麗玲).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin(黄丽玲)",
+      "has_synced": true,
+      "path": "select/09_給我一個理由忘記_A-Lin(黄丽玲).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin 黃麗玲",
+      "has_synced": true,
+      "path": "select/10_給我一個理由忘記_A-Lin_黃麗玲.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "給我一個理由忘記",
+      "artist": "A-Lin",
+      "has_synced": false,
+      "path": "select/pl_01_給我一個理由忘記_A-Lin.txt"
+    }
+  ]
+}
